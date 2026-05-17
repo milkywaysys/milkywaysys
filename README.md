@@ -1,4 +1,4 @@
 <p align=center>
-<img src=https://files.catbox.moe/a02cs5.jpg width=700>
+<img src=https://files.catbox.moe/j1k2b4.png width=700>
     
               ac: @astrxchoi
